@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452909206962",
+    "project_id": "maplocationupdate-1aeeb",
+    "storage_bucket": "maplocationupdate-1aeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452909206962:android:409ef6eeaa0eb7afd5e8ab",
+        "android_client_info": {
+          "package_name": "com.maplearn.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452909206962-3ubljonhnd5uv99obkin773ihovdq3i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxQ48Gb0lRyurBiZqV3dCzRGQ51eRQSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452909206962-3ubljonhnd5uv99obkin773ihovdq3i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
